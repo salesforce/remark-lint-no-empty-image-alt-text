@@ -1,6 +1,6 @@
 /**
  * @author Subrat Thakur
- * @license MIT
+ * @license BSD-3
  * @module no-empty-image-alt-text
  * @fileoverview
  *   Warn when image add without alt text
