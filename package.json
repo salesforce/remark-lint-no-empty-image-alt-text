@@ -1,0 +1,28 @@
+{
+  "name": "remark-lint-no-empty-image-alt-text",
+  "version": "1.0.3",
+  "description": "remark-lint rule to warn when alt text for image will be missing",
+  "license": "MIT",
+  "keywords": [
+    "remark",
+    "lint",
+    "rule",
+    "remark-lint-rule",
+    "accessibility",
+    "image"
+  ],
+  "repository": "https://github.com/salesforce/remark-lint-no-empty-image-alt-text",
+  "bugs": "https://github.com/salesforce/remark-lint-no-empty-image-alt-text/issues",
+  "author": "Subrat Thakur <subrat.thakur@salesforce.com>",
+  "contributors": [
+    "Subrat Thakur <subrat.thakur@salesforce.com>"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "unified-lint-rule": "^1.0.0",
+    "unist-util-generated": "^1.1.0",
+    "unist-util-visit": "^2.0.0"
+  }
+}
